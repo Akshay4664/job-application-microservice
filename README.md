@@ -1,0 +1,1 @@
+Developed a Job Application Management System using Spring Boot microservices, deployed on Kubernetes with PostgreSQL Docker images for each service. Used OpenFeign for inter-service communication and RabbitMQ for asynchronous messaging. Implemented containerization with Docker and secured API interactions with JWT authentication.
